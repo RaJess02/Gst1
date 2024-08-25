@@ -9,8 +9,8 @@ public class DemoTest {
 	}
 	
 	
-	public static void main (String [] args) {
-		System.out.println ("Test  103..");
+	public static void add (int a, int b) {
+		System.out.println ("int a + int b");
 	}	
 	
 }
